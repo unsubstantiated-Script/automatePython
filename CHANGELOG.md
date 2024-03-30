@@ -1,6 +1,8 @@
 Next Release
 -
-* Regex Jazz
+
+1.2.0
+* Regex Doc Crawler
 
 v1.1.0
 * Number Game
