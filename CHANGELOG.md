@@ -1,5 +1,6 @@
 Next Release
 -
+* Regex Jazz
 
 v1.1.0
 * Number Game
