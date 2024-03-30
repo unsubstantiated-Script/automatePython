@@ -1,5 +1,7 @@
 Next Release
 -
+
+v1.1.0
 * Number Game
 
 v1.0.0
