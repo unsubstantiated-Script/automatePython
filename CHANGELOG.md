@@ -1,5 +1,6 @@
 Next Release
 -
+* Web Crawler
 
 1.2.0
 * Regex Doc Crawler
