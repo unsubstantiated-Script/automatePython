@@ -1,6 +1,9 @@
 Next Release
 -
 
+1.4.0
+* Doc Crawler
+
 1.3.0
 * Web Crawler
 
